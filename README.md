@@ -8,4 +8,4 @@ After importing my data into power query, I checked for duplicates(found none),t
 # Data Preprocessing
 I noticed the select investors column contained many investors together so i split them using the "split by delimiter function"(since i needed the each investor).
 # Data Analysis & Visualizations
-![view the dashboard here] (https://user-images.githubusercontent.com/115374063/194786711-e7901387-5943-474f-a11a-2a211bc9ead6.png)
+[view the dashboard here](https://user-images.githubusercontent.com/115374063/194786711-e7901387-5943-474f-a11a-2a211bc9ead6.png)

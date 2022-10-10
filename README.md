@@ -7,4 +7,4 @@ This is my first project while working at my previous job place. I analyzed a da
 After importing my data into power query, I checked for duplicates(found none),the validity of my data using column distribution, quality and profiling and removed columns not neccessary for my analysis. I also made sure my columns were in the right data type.
 # Data Preprocessing
 I noticed the select investors column contained many investors together so i split them using the "split by delimiter function"(since i needed the each investor).
-# Data Analysis & Visualizations C:\Users\user\Desktop\uni
+# Data Analysis & VisualizationsC:\Users\user\Desktop\uni

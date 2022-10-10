@@ -10,7 +10,7 @@ I noticed the select investors column contained many investors together so i spl
 # Data Analysis & Visualizations
 1. More than half of the unicorns come from United States. The United States is the best to start if ambitious
 
-![uni-5](https://user-images.githubusercontent.com/115374063/194786970-5e72bce6-d1e7-4631-855c-547cee415c8d.png)
+[uni-5](https://user-images.githubusercontent.com/115374063/194786970-5e72bce6-d1e7-4631-855c-547cee415c8d.png)
 2. BYTEDANCE has the highest return on investment (ROI) with 40% more than the other unicorns followed by SHEIN company.
 
 ![uni-6](https://user-images.githubusercontent.com/115374063/194787089-024473ee-8c68-419c-8cfa-13dd0ab59b3e.png)

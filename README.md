@@ -8,6 +8,7 @@ After importing my data into power query, I checked for duplicates(found none),t
 # Data Preprocessing
 I noticed the select investors column contained many investors together so i split them using the "split by delimiter function"(since i needed the each investor).
 # Data Analysis & Visualizations
+![uni-1](https://user-images.githubusercontent.com/115374063/223216755-5e648cac-0eb4-41bb-8de6-ec12960e4bf0.png)
 1. More than half of the unicorns come from United States. The United States is the best to start if ambitious
 
 ![uni-5](https://user-images.githubusercontent.com/115374063/194786970-5e72bce6-d1e7-4631-855c-547cee415c8d.png)
